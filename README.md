@@ -11,5 +11,5 @@
 <h2>descrição do sistema</h2>
 <p> Este é um mini sistema de PDV para loginhas com a finalidade de auxiliar os logista de pequeno porte, mas que tenha as funções de cadastros de produtos, proprietário, colaboradores, etc, controle de estoques e relatório</p>
 <h2>Acesso</h2>
-<a href="https://tiny-piroshki-88cc05.netlify.app/"><h2>site</h2></a>
+<h3><a href="https://tiny-piroshki-88cc05.netlify.app" target="_blank">site</a></h3>
 
