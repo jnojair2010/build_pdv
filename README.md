@@ -1,4 +1,4 @@
-<h1> Sistema pdv com react e bankand nod</h1>
+<h1> Sistema pdv com react e backend nod</h1>
 <h3>Indice</h3>
 <ul>
   <li>Descriçao do sistema</li>
